@@ -29,8 +29,8 @@ only only includes the minimum needed for vagrant. The rest of heroku stack is l
 to build on top this box.
 
 This was made because it's a smaller payload and it's easier to add new things to a minimal box than
-it is to change/upgrade a full-fledged box. This makes it easier to match moving targets like
-Heroku's postgresql version.
+it is to change/upgrade a full-fledged box. This helps when matching moving targets like
+Heroku's Postgresql version.
 
   [basebox]: http://vagrantup.com/v1/docs/base_boxes.html
   [packaging]: http://vagrantup.com/v1/docs/getting-started/packaging.html
