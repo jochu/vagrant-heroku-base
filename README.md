@@ -17,7 +17,7 @@ In your Vagrantfile add the following:
   config.vm.box_url = "https://github.com/downloads/jochu/vagrant-heroku-min/heroku-min.box"
 ```
 
-It is recommended you [package your box][packaging] after you've install the necessary
+It is recommended you [package your own box][packaging] after you've install the necessary
 dependencies for your application.
 
 Motivation
