@@ -1,4 +1,4 @@
-vagrant-heroku-min
+vagrant-heroku-base
 ==================
 
 Minimal [vagrant base box][basebox] for matching Heroku Celadon Cedar stack.
@@ -13,8 +13,8 @@ Usage
 In your Vagrantfile add the following:
 
 ```ruby
-  config.vm.box = "heroku-min"
-  config.vm.box_url = "https://github.com/downloads/jochu/vagrant-heroku-min/heroku-min.box"
+  config.vm.box = "heroku-base"
+  config.vm.box_url = "https://github.com/downloads/jochu/vagrant-heroku-min/heroku-base.box"
 ```
 
 It is recommended you [package your own box][packaging] after you've install the necessary
