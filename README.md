@@ -1,7 +1,7 @@
 vagrant-heroku-base
 ==================
 
-Minimal [vagrant base box][basebox] for matching Heroku Celadon Cedar stack.
+Minimal [vagrant base box][basebox] for matching [Heroku](http://heroku.com)'s Celadon Cedar stack.
 
 It matches hardware's memory limitations and provides only the minimal software requirements 
 for vagrant. This box uses versions of ruby (1.9.2p290) and rubygems (1.3.7) that, at time of 
