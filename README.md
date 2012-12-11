@@ -13,7 +13,7 @@ Usage
 In your Vagrantfile add the following:
 
 ```ruby
-  config.vm.box = "heroku"
+  config.vm.box = "heroku-min"
   config.vm.box_url = "https://github.com/downloads/jochu/vagrant-heroku-min/heroku-min.box"
 ```
 
