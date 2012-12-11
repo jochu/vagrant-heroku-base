@@ -30,8 +30,7 @@ to build on top this box.
 
 This was made because it's a smaller payload and it's easier to add new things to a minimal box than
 it is to change/upgrade a full-fledged box. This makes it easier to match moving targets like
-Heroku's postgresql version. Fortunately,  Having a clean slate lets you install the appropiate
-version easily. 
+Heroku's postgresql version.
 
   [basebox]: http://vagrantup.com/v1/docs/base_boxes.html
   [packaging]: http://vagrantup.com/v1/docs/getting-started/packaging.html
