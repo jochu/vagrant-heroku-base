@@ -14,7 +14,7 @@ In your Vagrantfile add the following:
 
 ```ruby
   config.vm.box = "heroku-base"
-  config.vm.box_url = "https://github.com/downloads/jochu/vagrant-heroku-min/heroku-base.box"
+  config.vm.box_url = "https://github.com/downloads/jochu/vagrant-heroku-base/heroku-base.box"
 ```
 
 It is recommended you [package your own box][packaging] after you've install the necessary
